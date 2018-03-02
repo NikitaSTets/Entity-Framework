@@ -1,0 +1,14 @@
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EF2(1).exe.config
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EF2(1).exe
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EF2(1).pdb
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EntityFramework.dll
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EntityFramework.xml
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\obj\Debug\EF2(1).csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\obj\Debug\EF2(1).exe
+c:\users\никита\documents\visual studio 2015\Projects\EF2(1)\EF2(1)\obj\Debug\EF2(1).pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\EF\EF2(1)\EF2(1)\bin\Debug\EF2(1).exe.config
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\EF\EF2(1)\EF2(1)\obj\Debug\EF2(1).exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\EF\EF2(1)\EF2(1)\obj\Debug\EF2(1).pdb

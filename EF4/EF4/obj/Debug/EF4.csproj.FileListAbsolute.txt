@@ -1,0 +1,10 @@
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EF4.exe.config
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EF4.exe
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EF4.pdb
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EntityFramework.dll
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EntityFramework.xml
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\obj\Debug\EF4.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\obj\Debug\EF4.exe
+c:\users\никита\documents\visual studio 2015\Projects\EF4\EF4\obj\Debug\EF4.pdb
